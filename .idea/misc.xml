@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/suman/OneDrive/Documents/Repos/apps/Texie/app/src/main/res/drawable-nodpi/round_color.xml" value="0.1935" />
+        <entry key="..\:/Users/suman/OneDrive/Documents/Repos/apps/Texie/app/src/main/res/layout/color_choose.xml" value="1.0" />
+        <entry key="..\:/Users/suman/OneDrive/Documents/Repos/apps/Texie/app/src/main/res/layout/configuration.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
