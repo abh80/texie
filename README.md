@@ -5,6 +5,7 @@ A simple watch face for wear OS.
 - Lightweight
 - Simple and minimal
 - Different font color setting
+- Always on display : Battery efficient and low luminance to prevent screen burn.
 
 # Screenshots (from Galaxy Watch 4)
 ![Screenshot_20220721_053011_sysui](https://user-images.githubusercontent.com/50198413/180254779-f7f7aaa5-256e-4fe7-aea8-693e39d8194c.png)
